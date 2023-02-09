@@ -12,6 +12,7 @@ preprocessing:
   char_repeats: 3
   languages:  
   - en-us
+  - ne
   lowercase: true
   n_val: 5000
   phoneme_symbols:
